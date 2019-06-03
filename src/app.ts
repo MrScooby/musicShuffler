@@ -18,7 +18,7 @@ dirents.forEach(function (file) {
     });
 });
 
-let size = 870;
+let size = 940;
 let tmp_size = 0;
 
 let allSongs = 0;
